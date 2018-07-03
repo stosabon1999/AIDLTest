@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AIDLTest</string>
+    <string name="edit">edit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="end">Отправить</string>
+    <string name="default_text">default</string>
+</resources>
